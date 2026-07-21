@@ -1,6 +1,2 @@
-first_name = "Junaid"
-last_name = "Khan"
-
-full_name = first_name + " " + last_name
-
-print(full_name)
+name = input("Enter your name: ")
+print("Welcome", name)
